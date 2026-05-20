@@ -30,9 +30,11 @@ AI-powered smart transportation monitoring system.
 
 ---
 
-## 📊 GitHub Stats
-![Pradeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradeepbalaji123&show_icons=true&theme=tokyonight)
+## 🧠 Coding Profiles
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/pradeep___?theme=dark&font=Karma)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/pradeep___/)
 ---
 
 ## 🌐 Connect With Me
