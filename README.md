@@ -16,17 +16,11 @@
 
 ---
 
-## 📌 Current Focus
-- Building real-world projects
-- Improving problem-solving skills
-- Learning backend development
-- Exploring Machine Learning
-
----
-
-## 🚀 Projects
-### Smart Bus Vision
-AI-powered smart transportation monitoring system.
+## 📌 Technical Interests
+- Backend Systems
+- Machine Learning Applications
+- Data Structures & Algorithms
+- Scalable Software Development
 
 ---
 
@@ -39,3 +33,4 @@ AI-powered smart transportation monitoring system.
 
 ## 🌐 Connect With Me
 pradeepbalaji1408@gmail.com
+www.linkedin.com/in/pradeep-balaji-b70b55307
