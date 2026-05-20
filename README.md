@@ -26,11 +26,15 @@
 
 ## 🧠 Coding Profiles
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/pradeep___?theme=dark&font=Karma)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/PradeepBalaji123?theme=dark&font=Karma" alt="LeetCode Stats" />
+</p>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/PradeepBalaji123/)
----
-
+<p align="center">
+  <a href="https://leetcode.com/u/PradeepBalaji123/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode Profile"/>
+  </a>
+</p>
 ## 🌐 Connect With Me
 
 <p align="left">
