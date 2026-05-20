@@ -31,7 +31,7 @@ AI-powered smart transportation monitoring system.
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pradeepbalaji123&show_icons=true)
+![Pradeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradeepbalaji123&show_icons=true&theme=tokyonight)
 
 ---
 
