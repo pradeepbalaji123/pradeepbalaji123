@@ -32,5 +32,11 @@
 ---
 
 ## 🌐 Connect With Me
-pradeepbalaji1408@gmail.com
-www.linkedin.com/in/pradeep-balaji-b70b55307
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/pradeep-balaji-b70b55307">
+    <img src="https://img.shields.io/badge/LinkedIn-Pradeep%20Balaji-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+📧 pradeepbalaji1408@gmail.com
