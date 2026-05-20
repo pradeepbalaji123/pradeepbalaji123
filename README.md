@@ -28,7 +28,7 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/pradeep___?theme=dark&font=Karma)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/pradeep___/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/PradeepBalaji123/)
 ---
 
 ## 🌐 Connect With Me
